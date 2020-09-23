@@ -25,4 +25,4 @@ _Let's make our hands dirty with codes_ with the help of coaches from [HackYourF
 My life's philosophy is : 
 " If things are getting harder persevere :persevere: ~~LEAVE AND RUN AWAY~~ no **Never give up** " :muscle: 
 
-Send me a [Mail](mailto:jraoul2002@gmail.com) or reach me on [Github](https://jraoul2002.github.io/jraoul2002/)
+Send me a [Mail](mailto:jraoul2002@gmail.com) or have more informations about me on my [website](https://jraoul2002.github.io)
