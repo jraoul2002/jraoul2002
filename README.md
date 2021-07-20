@@ -16,6 +16,11 @@ I currently live in Hasselt with my family :blush:.
 * css
 * A bit of javascript
 * Git 
+* Javascript
+* NodeJs
+* React Js
+* Java
+* Python
 * ...
  
  
